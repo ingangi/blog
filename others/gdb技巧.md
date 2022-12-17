@@ -1,3 +1,3 @@
 # gdb技巧
 
-![image](https://github.com/ingangi/blog/blob/master/img/gdb_skill.png)
+![image](https://raw.githubusercontent.com/ingangi/blog/master/img/gdb_skill.png)

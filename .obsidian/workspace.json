@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "bb5fefc6306e6875",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bdefae70f1ec7e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6bda70475fa3f2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机组成原理/22._总线.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05015f4d902c4101",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e36fac1a2612042",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "370848a3b4a706c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ce818d7cf65b83b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "piach",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01ec8703cb261f5b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2bcd5e299427d20d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3271f947e14f8c3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc27cb971ecb9112",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "计算机组成原理/22._总线.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e17c7b2a48ab5ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "计算机组成原理/22._总线.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f75d02ec31304435",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78bfb7d211fa98f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计算机组成原理/22._总线.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5ce818d7cf65b83b",
+  "lastOpenFiles": [
+    "计算机组成原理/01._学习地图.md",
+    "计算机组成原理/02._认识性能.md"
+  ]
+}
